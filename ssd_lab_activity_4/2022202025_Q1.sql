@@ -1,0 +1,5 @@
+DELIMITER ;;
+CREATE PROCEDURE addition(IN a INT,IN b INT,OUT sum INT)
+BEGIN
+set sum=a+b;
+END;;
