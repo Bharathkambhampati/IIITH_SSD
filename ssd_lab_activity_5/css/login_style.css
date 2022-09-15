@@ -1,0 +1,36 @@
+
+body{
+   background-color: gray;
+   display: flex;
+   height: 100vh;
+   flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+h2{
+  margin:auto;
+}
+.box{
+  background-color: white;
+  width:350px;
+  border:solid;
+  border-radius: 5px;
+  margin:auto;
+  box-shadow: 5px 10px black;
+}
+
+.forms{
+  width: 100%;
+   padding: 10px 0;
+   margin: 5px 0;
+
+}
+
+.in{
+  width:85%;
+  margin:0em 2px;
+}
+.in:hover{
+  border-color: #f1aafa;
+  border-width:3px;
+}

@@ -1,0 +1,34 @@
+.in{
+  width:80%;
+  heigth:30px;
+  display:flex;
+  justify-content:center;
+  flex-direction: row;
+}
+.inf{
+  width:400px;
+  margin-left: 5px;
+}
+.inb{
+  margin-left:5px;
+  background-color: green;
+}
+.ind{
+  width:60%;
+  margin_left:auto;
+  margin-right: auto;
+  background-color: red;
+margin-top: 20px;}
+.tab{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width:750px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+body{
+  text-align: center;
+  background-color:#E4F9F5 ;
+}
